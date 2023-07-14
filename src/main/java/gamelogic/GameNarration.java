@@ -12,7 +12,7 @@ public class GameNarration {
             System.out.println(calculateScore[1]+"볼");
         }
         if(calculateScore[0]==0 && calculateScore[1]==0){
-        	System.out.println("포볼");
+        	System.out.println("낫싱");
         }
     }
 }
