@@ -1,6 +1,7 @@
 package gamelogic;
 
 import calculatescore.CalculateScore;
+import calculatescore.CalculateScore;
 import numberselect.MyNumber;
 import numberselect.RandomNumber;
 
